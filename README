@@ -1,0 +1,40 @@
+###############################################
+Vimeo Service Module
+###############################################
+
+18 June 2011
+
+Maintainer Contact
+-----------------------------------------------
+Will Barker (Nickname: asecondwill)
+<will (at) asecondsystem (dot) com>
+
+Requirements
+-----------------------------------------------
+SilverStripe 2.4.5
+PHP 5.2.x
+
+Documentation
+-----------------------------------------------
+
+
+Installation Instructions
+-----------------------------------------------
+4. Place this directory in the root of your SilverStripe installation (call the directory "vimeo")
+I.e. you will now have the following root folders
+
+assets
+mysite
+cms
+jsparty
+sapphire
+vimeo
+
+
+
+Usage Overview
+-----------------------------------------------
+There should now be a "V" button in the wysiwyg.  Click it, add in an id number and width  / height if you want.   - publish it and check the page? Got a movie? groovy. 
+
+Known issues:
+-----------------------------------------------
