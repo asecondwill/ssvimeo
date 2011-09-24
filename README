@@ -20,7 +20,7 @@ Documentation
 
 Installation Instructions
 -----------------------------------------------
-4. Place this directory in the root of your SilverStripe installation (call the directory "vimeo")
+4. Place this directory in the root of your SilverStripe installation (call the directory "ssvimeo")
 I.e. you will now have the following root folders
 
 assets
