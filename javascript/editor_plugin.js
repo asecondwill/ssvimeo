@@ -14,7 +14,7 @@
 			// Register buttons
 			ed.addButton('vsc', {
 				title : 'Insert Vimeo Shortcode',
-				image : 'vimeo/images/v.png',
+				image : 'ssvimeo/images/v.png',
 				cmd : 'vscInsertShortcode'
 			});
 		},
